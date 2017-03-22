@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1423756658 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\allocator.cc
+	"main.h"
+	"Allocator.h"
+
+1423756658 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\main.h
+	<iostream>
+	"common.h"
+	"ansi.h"
+	"asserts.h"
+	"Area.h"
+	"Allocator.h"
+
+1423756659 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\common.h
+
+1423756658 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\ansi.h
+	"common.h"
+
+1423756658 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\asserts.h
+	"here.h"
+	"assert_error.h"
+
+1423756659 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\here.h
+	<string>
+
+1423756658 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\assert_error.h
+	<stdexcept>
+
+1423756659 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\area.h
+	<iostream>
+	"asserts.h"
+
+1423756658 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\allocator.h
+	"Area.h"
+
+1436096646 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\application.cc
+	<cstdlib>
+	"main.h"
+	"Stopwatch.h"
+	"Application.h"
+
+1423756659 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\stopwatch.h
+	<sys/resource.h>
+	<sys/times.h>
+	<times.h>
+	<time.h>
+	<sys/time.h>
+	<windows.h>
+
+1436093589 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\application.h
+	<list>
+	"Allocator.h"
+	"Area.h"
+
+1423756658 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\area.cc
+	"asserts.h"
+	"Area.h"
+
+1423756658 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\assert_error.cc
+	<string>
+	<sstream>
+	"assert_error.h"
+
+1423756658 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\firstfit.cc
+	"FirstFit.h"
+	"ansi.h"
+
+1423756659 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\firstfit.h
+	"Fitter.h"
+
+1423756658 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\fitter.h
+	<list>
+	"Allocator.h"
+
+1423756659 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\firstfit2.cc
+	"FirstFit2.h"
+
+1423756658 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\firstfit2.h
+	"FirstFit.h"
+
+1423756658 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\fitter.cc
+	<cmath>
+	"ansi.h"
+	"Fitter.h"
+
+1423756658 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\here.cc
+	<string>
+	<sstream>
+
+1423756659 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\nextfit.cc
+	"main.h"
+	"NextFit.h"
+	"ansi.h"
+
+1423756658 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\nextfit.h
+	"Fitter.h"
+
+1423756659 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\nextfit2.cc
+	"NextFit2.h"
+
+1423756659 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\nextfit2.h
+	"NextFit.h"
+
+1423756659 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\randomfit.cc
+	"main.h"
+	"RandomFit.h"
+	<cstdlib>
+
+1423756658 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\randomfit.h
+	"Allocator.h"
+
+1423756658 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\stopwatch.cc
+	<iostream>
+	<cstdio>
+	"asserts.h"
+	"Stopwatch.h"
+	<unistd.h>
+	<time.h>
+
+1423756659 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\unix_error.cc
+	<cstring>
+	<cerrno>
+	<sstream>
+	"unix_error.h"
+
+1423756659 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\unix_error.h
+	<stdexcept>
+	<string>
+	"here.h"
+
+1431010463 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\bestfit.cpp
+	"BestFit.h"
+
+1433715938 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\bestfit.h
+	"Fitter.h"
+
+1433715912 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\bestfit.cc
+	"BestFit.h"
+	"ansi.h"
+
+1436096196 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\main.cc
+	<vector>
+	<cstdlib>
+	<getopt.h>
+	"main.h"
+	"RandomFit.h"
+	"FirstFit.h"
+	"FirstFit2.h"
+	"NextFit.h"
+	"NextFit2.h"
+	"BestFit.h"
+	"BestFit2.h"
+	"Application.h"
+
+1432816824 d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\bestfit2.h
+	"BestFit.h"
+
+1433717526 source:d:\develop\cpp\besteuringsystemen\opdrachten\memadmin\bestfit2.cc
+	"BestFit2.h"
+

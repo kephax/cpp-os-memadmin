@@ -1,0 +1,6 @@
+<map id="Stopwatch.cc" name="Stopwatch.cc">
+<area shape="rect" id="node4" href="$asserts_8h.html" title="This file defines various macro&#39;s that can be used as checks in your program. " alt="" coords="183,80,259,107"/>
+<area shape="rect" id="node9" href="$Stopwatch_8h.html" title="Defines the class Stopwatch that can measure the CPU time usage of your program. " alt="" coords="283,80,377,107"/>
+<area shape="rect" id="node5" href="$here_8h.html" title="Provides the __HERE__ macro which produces a &quot;file[line] in function&quot; std::string that you can prepen..." alt="" coords="139,155,196,181"/>
+<area shape="rect" id="node7" href="$assert__error_8h.html" title="This file defines the assert_error exception class. " alt="" coords="222,155,324,181"/>
+</map>
